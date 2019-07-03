@@ -1,5 +1,5 @@
 # Tertium Reader
 
-PDF/EPub/etc reader
+Preview image
 
 ![Tertium Reader - Preview image](src/images/tertium-reader--preview.png)
