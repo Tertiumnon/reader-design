@@ -2,4 +2,4 @@
 
 PDF/EPub/etc reader
 
-![Tertium Reader - Preview image](src\images\tertium-reader--preview.png)
+![Tertium Reader - Preview image](src/images/tertium-reader--preview.png)
